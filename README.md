@@ -5,7 +5,7 @@
 
 ### 👋 About Me
 
-`git commit -m "Code. Ship. Repeat."`  
+`git commit -m "Progress made. Weekend slightly more justified."`  
 
 I'm a software engineer who’s worked across data, cloud, and full-stack systems.  
 Currently pursuing my Master’s in Information Systems at Northeastern University.  
@@ -40,21 +40,6 @@ Looking for 2025 internships in software, cloud, ML, or systems.
 → CNN-based predictor using TensorFlow  
 → Trained and deployed with a lightweight Flask interface
 
----
-
-### 💼 Experience
-
-**Software Engineer – Data** @ Cognizant  
-*Dec 2022 – Dec 2023*  
-- Built ETL pipelines with AWS Glue, S3, Redshift, and Athena  
-- Migrated 1TB+ of data to Snowflake → achieved 40% faster queries  
-- Automated reporting and monitored jobs across cloud infrastructure
-
-**Data Engineering Intern** @ Cognizant  
-*Feb 2022 – Nov 2022*  
-- Developed internal dashboards and tooling  
-- Selected as one of the Top 10 interns nationwide  
-- Presented work to Cognizant’s CEO Ravi Kumar
 
 ---
 
