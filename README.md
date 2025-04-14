@@ -1,72 +1,74 @@
-<h1 align="center">Hi, I'm Mano 👋</h1>
-<p align="center">MS in Info Systems @ Northeastern | Backend + ML Projects | AWS Data Engineer (ex-Cognizant)</p>
+<h1 align="center">Samanthaka Manognya Tadikonda</h1>
+<p align="center">Software Engineer with frontend, backend, cloud, and AI experience | MS @ Northeastern</p>
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 👋 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
-</p>
+`git commit -m "Code. Ship. Repeat."`  
+
+I'm a software engineer who’s worked across data, cloud, and full-stack systems.  
+Currently pursuing my Master’s in Information Systems at Northeastern University.  
+Previously at Cognizant, where I built AWS pipelines, moved a terabyte (literally), and didn’t break prod.  
+
+Looking for 2025 internships in software, cloud, ML, or systems.
 
 ---
 
-### 🧠 Projects That Keep Me Up (in a good way)
+### ⚙️ Tech Stack
 
-**📄 Legal Document Analyzer**  
-_LlamaIndex + OpenAI-powered REST API to simplify legal texts and surface insights_  
-→ Handles unstructured input, extracts highlights, delivers responses via FastAPI
-
-**🧥 AI Stylist**  
-_CLIP embeddings + weather + mood = outfit suggestions that make sense_  
-→ FastAPI backend, React frontend, image matching logic
-
-**🧠 Counter-Narrative Generator (Research)**  
-_Using LLMs to generate responses to hate speech and misinformation_  
-→ Built scalable APIs and deployed custom prompts in production-style setup
+**Languages:** Python, SQL, Java, Go, C/C++  
+**Cloud & Infra:** AWS (Lambda, S3, Redshift, Glue, Athena), Docker, Kubernetes (Minikube, Helm), Terraform  
+**Tools:** FastAPI, Git, Postman, CI/CD (GitHub Actions, Bitbucket Pipelines), JIRA, Prometheus, Grafana  
+**Distributed Systems:** Data Partitioning, Load Balancing, Fault Tolerance, Observability  
+**Databases:** Snowflake, MySQL, PostgreSQL, MongoDB  
+**ML/AI:** OpenAI (GPT, BERT, CLIP), Transformers, TensorFlow, LlamaIndex
 
 ---
 
-### 🌱 What I'm Learning / Improving
+### 🚀 Projects
 
-- Semi-supervised learning on real-world health datasets  
-- Fine-tuning LLM prompts for factuality  
-- API scaling and latency optimization  
+📄 **Legal Document Analyzer**  
+→ REST API using LlamaIndex + OpenAI to summarize legal contracts  
+→ FastAPI backend with production-ready endpoints
 
----
+🧥 **AI Stylist**  
+→ Recommends outfits based on user image, mood, and weather  
+→ CLIP embeddings + FastAPI + React.js  
 
-### 📌 Experience Snapshot
-
-- 🧪 Research Assistant @ Northeastern  
-   → Built ML-powered APIs to counter misinformation  
-- ☁️ AWS Data Engineer @ Cognizant  
-   → Migrated 1TB data to Snowflake, reduced latency by 40%  
-- 🎯 Top 10 Cognizant Interns Nationwide  
-   → Met CEO Ravi Kumar during internship showcase
+🎯 **Age & Gender Prediction**  
+→ CNN-based predictor using TensorFlow  
+→ Trained and deployed with a lightweight Flask interface
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
-</p>
+**Software Engineer – Data** @ Cognizant  
+*Dec 2022 – Dec 2023*  
+- Built ETL pipelines with AWS Glue, S3, Redshift, and Athena  
+- Migrated 1TB+ of data to Snowflake → achieved 40% faster queries  
+- Automated reporting and monitored jobs across cloud infrastructure
+
+**Data Engineering Intern** @ Cognizant  
+*Feb 2022 – Nov 2022*  
+- Developed internal dashboards and tooling  
+- Selected as one of the Top 10 interns nationwide  
+- Presented work to Cognizant’s CEO Ravi Kumar
 
 ---
 
-### 🔎 Find me here  
-<p align="center">
-  <a href="https://www.linkedin.com/in/manotadikonda/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tadikonda.sa@northeastern.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🔍 Right Now
+
+- Practicing semi-supervised learning on structured datasets  
+- Building smarter ensemble models  
+- Exploring better alerting/monitoring for cloud-native apps  
+- Looking for teams that value clean code and well-named variables
+
+---
+
+
+### 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/manotadikonda/)  
+[Email](mailto:tadikonda.sa@northeastern.edu)
